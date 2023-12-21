@@ -3,7 +3,7 @@ Bash script for Subdomain Enumeration and Scanning
 
 
 Usage:-
-git clone 
+git clone https://github.com/savitarrrrr/Automation.git
 chmod +x arecon.sh
 ./arecon.sh target.com
 
